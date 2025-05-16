@@ -7,5 +7,4 @@ npm run build
 
 pipenv install
 
-pipenv run dbinit
 pipenv run upgrade
